@@ -16,7 +16,7 @@
 ## 开发环境
 ### 后台基于maven使用SSM框架整合(Spring、SpringMVC、Mybatis)
 ### 前端jsp页面样式基于layui框架，bootstrap和jquery
-### ide：Intellij IDEA 2017.2.4
+### ide：IntelliJ IDEA 2022.1
 ### java版本：jdk1.8.0_152
 ### 数据库版本：mysql 5.7.18-1
 
